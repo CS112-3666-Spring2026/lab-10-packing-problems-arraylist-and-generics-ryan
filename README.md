@@ -1,3 +1,4 @@
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=23950935)
 # Lab 10: ArrayList + Generics (Packing Problems)
 
   Ellen Ochoa and her fellow astronauts need help preparing for their mission STS-96. Your job is to make sure all the items required are accounted for and are ready for departure. Three arrays of items have been provided for you. They are the default items that are brought on every mission, however there are special items we are taking on STS-96 and you need to make sure everything gets on board.
